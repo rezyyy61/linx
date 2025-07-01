@@ -1,0 +1,15 @@
+{
+    "dashboard": "داشبورد",
+    "politicalProfile": "پروفایل سیاسی",
+    "newPost": "پست جدید",
+    "myPosts": "پست‌های من",
+    "archive": "بایگانی",
+    "settings": "تنظیمات",
+    "signOut": "خروج",
+    "userMenu": {
+        "dashboard": "داشبورد",
+        "settings": "تنظیمات",
+        "earnings": "درآمدها",
+        "signOut": "خروج"
+    }
+}
